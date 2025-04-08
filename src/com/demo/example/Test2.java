@@ -10,6 +10,6 @@ public class Test2 {
 			System.out.println("Yes the name contains the text");
 		}
 		
-//		System.out.println("Hello Test two from harry");
+		System.out.println("Hello Test two from harry");
 	}
 }
